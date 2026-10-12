@@ -1,0 +1,6 @@
+I originally misread the problem and was solving a different substring problem of non-contiguous substrings using recursion
+
+so awbwcw would be abc instead of aw
+
+updating the recursion for contiguous gets the right answer but times out as taking too long on LC.  A sliding window for this 
+problem type would work a lot better
